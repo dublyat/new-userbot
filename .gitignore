@@ -1,0 +1,6 @@
+__pycache__/
+accounts/
+config.json
+*.session
+*.pyc
+.env
