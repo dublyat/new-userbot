@@ -6,7 +6,7 @@ ACCOUNTS_DIR = "accounts"
 os.makedirs(ACCOUNTS_DIR, exist_ok=True)
 
 DEFAULT_CONFIG = {
-    "admins": [123456789],  # Replace with your Telegram ID
+    "admins": [5087266104],  # Replace with your Telegram ID
     "groups": [],
     "accounts": []
 }
